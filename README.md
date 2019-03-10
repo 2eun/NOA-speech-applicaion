@@ -1,0 +1,1 @@
+# NOA-speech-applicaion
