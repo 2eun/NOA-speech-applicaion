@@ -1,10 +1,6 @@
 # NOA-speech-applicaion
 
-src/main/res/drawable : icon, image ...
-src/main/res/layout : xml
-src/main/res/values : key, strings ...
-
-src/main/java/com/eun/noa : Activity files
+NOA 압축파일을 안드로이드 스튜디오로 실행하면 됩니다
 
 사용 방법
 1. 앱을 실행하면 시각장애인이 앱이 실행되었다는 것을 알 수 있게 바로 안내 음성이 나옵니다.
